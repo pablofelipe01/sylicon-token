@@ -51,7 +51,7 @@ export const ProductHero: React.FC<{
         </div>
 
         <a
-          href="https://market-place-sylicon-3-0.vercel.app/"
+          href="https://market-place-sylicon-3-0.vercel.app/collection/137/0x7afb62B54d52EE104FF1C0F1Ddb54A511AE6839F"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.addToCartButton}
